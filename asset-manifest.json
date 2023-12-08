@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.978fdeec.css",
-    "main.js": "/react-gh-pages/static/js/main.2c6830e7.js",
-    "static/media/adopt-placeholder.avif": "/react-gh-pages/static/media/adopt-placeholder.dd4cac337d10a7fcc0ff.avif",
-    "static/media/no-results-puppy.png": "/react-gh-pages/static/media/no-results-puppy.f18d969753160257d36e.png",
-    "static/media/papyrus-background.png": "/react-gh-pages/static/media/papyrus-background.26a3c21ec1133bc7f2c6.png",
-    "index.html": "/react-gh-pages/index.html",
-    "main.978fdeec.css.map": "/react-gh-pages/static/css/main.978fdeec.css.map",
-    "main.2c6830e7.js.map": "/react-gh-pages/static/js/main.2c6830e7.js.map"
+    "main.css": "/pawsitively-yours/static/css/main.061f918a.css",
+    "main.js": "/pawsitively-yours/static/js/main.9914b33f.js",
+    "static/media/adopt-placeholder.avif": "/pawsitively-yours/static/media/adopt-placeholder.dd4cac337d10a7fcc0ff.avif",
+    "static/media/no-results-puppy.png": "/pawsitively-yours/static/media/no-results-puppy.f18d969753160257d36e.png",
+    "static/media/papyrus-background.png": "/pawsitively-yours/static/media/papyrus-background.26a3c21ec1133bc7f2c6.png",
+    "index.html": "/pawsitively-yours/index.html",
+    "main.061f918a.css.map": "/pawsitively-yours/static/css/main.061f918a.css.map",
+    "main.9914b33f.js.map": "/pawsitively-yours/static/js/main.9914b33f.js.map"
   },
   "entrypoints": [
-    "static/css/main.978fdeec.css",
-    "static/js/main.2c6830e7.js"
+    "static/css/main.061f918a.css",
+    "static/js/main.9914b33f.js"
   ]
 }
