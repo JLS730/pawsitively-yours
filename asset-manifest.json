@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pawsitively-yours/static/css/main.061f918a.css",
-    "main.js": "/pawsitively-yours/static/js/main.09c4be48.js",
+    "main.js": "/pawsitively-yours/static/js/main.85823718.js",
     "static/media/adopt-placeholder.avif": "/pawsitively-yours/static/media/adopt-placeholder.dd4cac337d10a7fcc0ff.avif",
     "static/media/no-results-puppy.png": "/pawsitively-yours/static/media/no-results-puppy.f18d969753160257d36e.png",
     "static/media/papyrus-background.png": "/pawsitively-yours/static/media/papyrus-background.26a3c21ec1133bc7f2c6.png",
     "index.html": "/pawsitively-yours/index.html",
     "main.061f918a.css.map": "/pawsitively-yours/static/css/main.061f918a.css.map",
-    "main.09c4be48.js.map": "/pawsitively-yours/static/js/main.09c4be48.js.map"
+    "main.85823718.js.map": "/pawsitively-yours/static/js/main.85823718.js.map"
   },
   "entrypoints": [
     "static/css/main.061f918a.css",
-    "static/js/main.09c4be48.js"
+    "static/js/main.85823718.js"
   ]
 }
